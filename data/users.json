@@ -1,0 +1,24 @@
+{
+  "admin": {
+    "password": "admin123",
+    "role": "admin"
+  },
+  "Sherin": {
+    "password": "1234",
+    "role": "customer"
+  },
+  "Sachin": {
+    "password": "pass",
+    "role": "customer"
+  },
+  "shehan": {
+    "password": "1234",
+    "role": "customer",
+    "balance": 0
+  },
+  "Rose": {
+    "password": "1234",
+    "role": "customer",
+    "balance": 0
+  }
+}
