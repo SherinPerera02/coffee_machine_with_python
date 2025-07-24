@@ -1,6 +1,6 @@
 # Smart Coffee Machine - Python Console Project
 
-A Python-based Smart Coffee Machine simulation that allows users to register, log in, and order drinks while managing payment through Rs. 20, 50, 100, 500, and 1000 notes. The machine tracks resources, handles user management, and stores transactions.
+A Python-based Smart Coffee Machine simulation that allows users to register, log in and order drinks while managing payments. The machine tracks resources, handles user management and stores transactions.
 
 # Features
 
